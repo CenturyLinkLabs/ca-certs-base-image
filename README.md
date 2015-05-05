@@ -1,5 +1,7 @@
 # ca-certs
 
+[![](https://badge.imagelayers.io/centurylink/ca-certs.svg)](https://imagelayers.io/?images=centurylink/ca-certs:latest 'Get your own badge on imagelayers.io')
+
 `FROM centurylink/ca-certs`
 
 This is a Docker base image which builds off of the [scratch](https://registry.hub.docker.com/u/library/scratch/) image and adds the root certificates for all of the standard certificate authorities. 
